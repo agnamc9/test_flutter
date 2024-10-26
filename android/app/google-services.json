@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "672870484028",
+    "project_id": "app-faq-6b443",
+    "storage_bucket": "app-faq-6b443.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672870484028:android:a3e2999f3f9922f9639b39",
+        "android_client_info": {
+          "package_name": "com.paynah.flutter_test.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672870484028-7mok51lms1b9326e06a3jusg4rttet36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdFRHqA98EJERlzVwI8jT6g4GpcunCEz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672870484028-7mok51lms1b9326e06a3jusg4rttet36.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "672870484028-5ijjai8v8olm1i7mmh2i3chd1dhak7if.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appFaq"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
